@@ -1,0 +1,7 @@
+title            : Datacamp Course
+author_field     : sheltonmath
+description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.<br>This course.yml file has a YAML syntax. If you want to learn more about this language, you can check out this <a href=http://docs.ansible.com/ansible/YAMLSyntax.html>site</a>.
+author_bio       : sheltonmath is an awesome DataCamp course creator.<br>You can tell something about yourself <strong>here</strong>.
+university       : DataCamp
+difficulty_level : 3
+time_needed      : 1 hour
